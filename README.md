@@ -102,8 +102,3 @@ All product information is the property of Amazon. If you plan to use this data 
 **Ali** — Developer & Data Engineer in training
 
 Built with ❤️ using Python, Requests, BeautifulSoup, Selenium, and Pandas
-
----
-
-⚡ Next step: I can generate the **requirements.txt** and a **.gitignore** file for you, so your repo is clean when you publish.
-Do you want me to prepare those files for you now?
