@@ -19,19 +19,12 @@ Using **Requests**, **BeautifulSoup**, and **Selenium**, it collects structured 
 ## 📂 Project Structure
 
 📦 amazon-product-scraper
-┣ 📂 src/
-┃ ┣ 📜 scraper.py — Main scraping logic
-┃ ┣ 📜 utils.py — Helper functions (cleaning, CSV export)
-┃ ┗ 📜 config.py — Headers, base URLs, and constants
 ┣ 📂 notebooks/
 ┃ ┗ 📜 script.ipynb — Original Jupyter Notebook
 ┣ 📂 data/
 ┃ ┗ 📜 products.csv — Exported dataset
-┣ 📂 tests/
-┃ ┗ 📜 test\_scraper.py — Unit tests
 ┣ 📜 requirements.txt — Python dependencies
 ┣ 📜 README.md — Project documentation
-┗ 📜 .gitignore — Ignore cache, env, data files
 
 ---
 
@@ -102,3 +95,4 @@ All product information is the property of Amazon. If you plan to use this data 
 **Ali** — Developer & Data Engineer in training
 
 Built with ❤️ using Python, Requests, BeautifulSoup, Selenium, and Pandas
+
