@@ -16,18 +16,6 @@ Using **Requests**, **BeautifulSoup**, and **Selenium**, it collects structured 
 
 ---
 
-## 📂 Project Structure
-
-📦 amazon-product-scraper
-┣ 📂 notebooks/
-┃ ┗ 📜 script.ipynb — Original Jupyter Notebook
-┣ 📂 data/
-┃ ┗ 📜 products.csv — Exported dataset
-┣ 📜 requirements.txt — Python dependencies
-┣ 📜 README.md — Project documentation
-
----
-
 ## ⚙️ Installation
 
 1. Clone the repository:
@@ -95,5 +83,6 @@ All product information is the property of Amazon. If you plan to use this data 
 **Ali** — Developer & Data Engineer in training
 
 Built with ❤️ using Python, Requests, BeautifulSoup, Selenium, and Pandas
+
 
 
